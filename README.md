@@ -19,10 +19,10 @@ Current work in progress:
 | [GLM OCR](https://github.com/sunrisever/glm-ocr) | PDF/PPT/Image to Markdown OCR toolkit based on Zhipu GLM-OCR |
 | [PDF 4-in-1](https://github.com/sunrisever/pdf-4in1) | 4-in-1 print layout converter for lecture handouts and slide decks |
 | [VS Code Frosted Glass](https://github.com/sunrisever/vscode-frosted-glass) | Frosted-glass transparency setup and maintenance workflow for VS Code on Windows |
-| [Bilibili Favorites](https://github.com/sunrisever/bilibili-favorites) | AI-assisted Bilibili favorites organizer and folder sync workflow |
-| [Bilibili Follow](https://github.com/sunrisever/bilibili-follow) | AI-assisted Bilibili follow organizer and group sync workflow |
-| [Tab Organize](https://github.com/sunrisever/tab-organize) | AI-assisted browser tab grouping extension for Edge and Chrome |
-| [Bookmark Organize](https://github.com/sunrisever/bookmark-organize) | AI-assisted bookmark merge, deduplication, link check, and classification workflow |
+| [Bilibili Favorites](https://github.com/sunrisever/bilibili-favorites) | Export Bilibili favorites, classify them with ChatGPT/Claude/Gemini or other frontier LLMs, then sync the resulting folder structure back |
+| [Bilibili Follow](https://github.com/sunrisever/bilibili-follow) | Export Bilibili follows, classify them with ChatGPT/Claude/Gemini or other frontier LLMs, then sync the resulting groups back |
+| [Tab Organize](https://github.com/sunrisever/tab-organize) | Export Edge/Chrome tabs, classify them with ChatGPT/Claude/Gemini or other frontier LLMs, then import the grouped tabs back into the browser |
+| [Bookmark Organize](https://github.com/sunrisever/bookmark-organize) | Export browser bookmarks and use frontier LLMs for merge, deduplication, link checking, and category planning before writing the cleaned structure back |
 
 ## Themes
 
