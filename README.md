@@ -10,6 +10,7 @@ Current work in progress:
 - **Haonote**: preparing an OCR-first note workflow that can later extend to local videos and more platforms
 - **OpenClaw**: continuing the unfinished supervision and automation workflows
 - **English Vocabulary App**: a desktop-first vocabulary app for **Gaokao**, **CET-4/6**, and **postgraduate entrance exam** preparation
+- **League of Legends Multimodal AI Commentary**: a long-term project for professional match understanding, analysis, and AI casting
 
 ## Selected Projects
 
